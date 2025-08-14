@@ -3,17 +3,6 @@
 <h1>Style4D-Bench: A Benchmark Suite for 4D Stylization </h1>
 
 
-<div>
-    <a href='https://wanggcong.github.io/' target='_blank'>Guangcong Wang</a>&emsp;
-    <a href='https://frozenburning.github.io/' target='_blank'>Zhaoxi Chen</a>&emsp;
-    <a href='https://www.mmlab-ntu.com/person/ccloy/' target='_blank'>Chen Change Loy</a>&emsp;
-    <a href='https://liuziwei7.github.io/' target='_blank'>Ziwei Liu</a>
-</div>
-<div>
-    S-Lab, Nanyang Technological University
-</div>
-
-
 
 
 
@@ -21,10 +10,11 @@
 ### :baby_chick: [Project](https://sparsenerf.github.io/) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv]() 
 <div>
 
-<div style="position:relative;padding-top:56.25%;">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Tf6QnksXFxQ?si=c2eaS4JSEgvwFaHO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-
- </div>
+</div>
+<tr>
+    <img src="assets/result.gif" width="90%"/>
+</tr>
+</div>
 
 
 >:baby_chick: **TL;DR**: We present SparseNeRF, a simple yet effective method that synthesizes novel views given a few images. SparseNeRF distills robust local depth ranking priors from real-world inaccurate depth observations, such as pre-trained monocular depth estimation models or consumer-level depth sensors.
