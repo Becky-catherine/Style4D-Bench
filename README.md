@@ -13,21 +13,18 @@
     S-Lab, Nanyang Technological University
 </div>
 
-<div>
-    ICCV 2023
-</div>
 
 
 
 
-### :baby_chick: [Project](https://sparsenerf.github.io/) | [YouTube](https://www.youtube.com/watch?v=V0yCTakA964) | [arXiv](https://arxiv.org/abs/2303.16196) 
+
+### :baby_chick: [Project](https://sparsenerf.github.io/) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv]() 
 <div>
 
-</div>
-<tr>
-    <img src="img/demo.gif" width="90%"/>
-</tr>
-</div>
+<div style="position:relative;padding-top:56.25%;">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Tf6QnksXFxQ?si=c2eaS4JSEgvwFaHO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+
+ </div>
 
 
 >:baby_chick: **TL;DR**: We present SparseNeRF, a simple yet effective method that synthesizes novel views given a few images. SparseNeRF distills robust local depth ranking priors from real-world inaccurate depth observations, such as pre-trained monocular depth estimation models or consumer-level depth sensors.
