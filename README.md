@@ -27,6 +27,12 @@
 
 >:baby_chick: **Framework Overview:** Style4D consists of three key components, a basic 4DGS representation, a Style Gaussian Representation, and a Holistic Geometry-preserved Style Transfer. We first train a basic 4DGS representation with the content image to obtain 4D scene geometry. Then we propose a new Style Gaussian Representation for 4D stylization. We also introduce a Holistic Geometry-preserved Style Transfer module to improve consistency and quality of stylization.
 
+<div align="center">
+<tr>
+    <img src="assets/metric.png" width="90%"/>
+</tr>
+</div>
+
 
 
 
