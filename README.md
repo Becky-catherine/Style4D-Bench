@@ -32,6 +32,7 @@
     <img src="assets/metric.png" width="90%"/>
 </tr>
 </div>
+>:baby_chick: **Evaluation Metrics:**Quantitative comparisons of our proposed Style4D against state-of-the-art methods on Style4D-Bench.
 
 
 
