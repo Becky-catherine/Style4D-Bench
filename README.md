@@ -22,7 +22,7 @@
 
 <div align="center">
 <tr>
-    <img src="assets/metric_pic.png" width="90%"/>
+    <img src="assets/metric_pic.png" width="50%"/>
 </tr>
 </div>
 
