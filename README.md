@@ -21,9 +21,9 @@
 </div>
 
 
-<div align="center">
+
 ### :baby_chick: [Project](https://becky-catherine.github.io/Style4D) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv]() 
-</div>
+
 
 <div align="center">
 <tr>
@@ -49,7 +49,9 @@
 </tr>
 </div>
 
->:baby_chick: **Framework Overview:** Style4D consists of three key components, a basic 4DGS representation, a Style Gaussian Representation, and a Holistic Geometry-preserved Style Transfer. We first train a basic 4DGS representation with the content image to obtain 4D scene geometry. Then we propose a new Style Gaussian Representation for 4D stylization. We also introduce a Holistic Geometry-preserved Style Transfer module to improve consistency and quality of stylization.
+<p align="justify">
+:baby_chick: <strong>Framework Overview:</strong> Style4D consists of three key components, a basic 4DGS representation, a Style Gaussian Representation, and a Holistic Geometry-preserved Style Transfer. We first train a basic 4DGS representation with the content image to obtain 4D scene geometry. Then we propose a new Style Gaussian Representation for 4D stylization. We also introduce a Holistic Geometry-preserved Style Transfer module to improve consistency and quality of stylization.
+</p>
 
 <div align="center">
 <tr>
@@ -57,7 +59,9 @@
 </tr>
 </div>
 
->:baby_chick: **Evaluation Metrics:** Quantitative comparisons of our proposed Style4D against state-of-the-art methods on Style4D-Bench.
+<p align="justify">
+:baby_chick: <strong>Evaluation Metrics:</strong> Quantitative comparisons of our proposed Style4D against state-of-the-art methods on Style4D-Bench.
+</p>
 
 
 
