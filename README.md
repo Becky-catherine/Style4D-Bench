@@ -2,7 +2,7 @@
 
 <h1>Style4D-Bench: A Benchmark Suite for 4D Stylization </h1>
 
-<div>
+</div>
 <div align="center">
     <a href='' target='_blank'>Beiqi Chen</a><sup>*1,2</sup>&emsp;
     <a href='' target='_blank'>Shuai Shao</a><sup>*2</sup>&emsp;
@@ -21,11 +21,11 @@
 </div>
 
 
-
+<div align="center">
 ### :baby_chick: [Project](https://becky-catherine.github.io/Style4D) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv]() 
-<div>
-
 </div>
+
+<div align="center">
 <tr>
     <img src="assets/result.gif" width="90%"/>
 </tr>
