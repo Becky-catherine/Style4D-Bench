@@ -5,7 +5,7 @@
 <div>
 <div align="center">
     <a href='' target='_blank'>Beiqi Chen</a><sup>*1,2</sup>&emsp;
-    <a href='' target='_blank'>Shuai Shao</a><sup>*2</sup><br>
+    <a href='' target='_blank'>Shuai Shao</a><sup>*2</sup>&emsp;
     <a href='' target='_blank'>Haitang Feng</a><sup>3,2</sup>&emsp;
     <a href='https://cse.sysu.edu.cn/teacher/LaiJianhuang' target='_blank'>Jianhuang Lai</a><sup>4</sup>&emsp;
     <a href='' target='_blank'>Jianlou Si</a><sup>5</sup>&emsp;
@@ -14,7 +14,7 @@
 
 <div align="center">
     <sup>1</sup>Harbin Institute of Technology&emsp;
-    <sup>2</sup>Vision, Graphics, and X Group, Great Bay University&emsp;
+    <sup>2</sup>Vision, Graphics, and X Group, Great Bay University<br>
     <sup>3</sup>Nanjing University&emsp;
     <sup>4</sup>Sun Yat-Sen University&emsp;
     <sup>5</sup>Alibaba Group
