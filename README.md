@@ -2,8 +2,25 @@
 
 <h1>Style4D-Bench: A Benchmark Suite for 4D Stylization </h1>
 
+<div>
+<div align="center">
+    <a href='' target='_blank'>Beiqi Chen</a><sup>*1,6</sup>&emsp;
+    <a href='' target='_blank'>Shuai Shao</a><sup>*2,6</sup>&emsp;
+    <a href='' target='_blank'>Haitang Feng</a><sup>3,6</sup>&emsp;
+    <a href='https://cse.sysu.edu.cn/teacher/LaiJianhuang' target='_blank'>Jianhuang Lai</a><sup>4</sup>&emsp;
+    <a href='' target='_blank'>Jianlou Si</a><sup>5</sup>&emsp;
+    <a href='https://wanggcong.github.io/' target='_blank'>Guangcong Wang</a><sup>6</sup><br>
+</div>
 
+<div align="center">
+    <sup>1</sup>Harbin Institute of Technology<br>
+    <sup>2</sup>Columbia University<br>
+    <sup>3</sup>Nanjing University<br>
+    <sup>4</sup>Sun Yat-Sen University<br>
+    <sup>5</sup>Alibaba Group<br>
+    <sup>6</sup>Vision, Graphics, and X Group, Great Bay University
 
+</div>
 
 
 
