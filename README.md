@@ -67,4 +67,8 @@
 
 If you find this useful for your research, please cite the our paper.
 
+## Acknowledgement
+
+The computational resources are supported by SongShan Lake HPC Center (SSL-HPC) in Great Bay University. This work was also supported by Guangdong Research Team for Communication and Sensing Integrated with Intelligent Computing (Project No. 2024KCXTD047).
+
 
