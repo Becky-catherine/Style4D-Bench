@@ -20,9 +20,10 @@
     <sup>5</sup>Alibaba Group
 </div>
 
+<div align="center">
 
-
-### :baby_chick: [Project](https://becky-catherine.github.io/Style4D) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv]() 
+ :baby_chick: [Project](https://becky-catherine.github.io/Style4D) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv]() 
+</div>
 
 
 <div align="center">
