@@ -13,13 +13,12 @@
 </div>
 
 <div align="center">
-    <sup>1</sup>Harbin Institute of Technology<br>
-    <sup>2</sup>Columbia University<br>
-    <sup>3</sup>Nanjing University<br>
-    <sup>4</sup>Sun Yat-Sen University<br>
-    <sup>5</sup>Alibaba Group<br>
+    <sup>1</sup>Harbin Institute of Technology&emsp;
+    <sup>2</sup>Columbia University&emsp;
+    <sup>3</sup>Nanjing University&emsp;
+    <sup>4</sup>Sun Yat-Sen University&emsp;
+    <sup>5</sup>Alibaba Group&emsp;
     <sup>6</sup>Vision, Graphics, and X Group, Great Bay University
-
 </div>
 
 
