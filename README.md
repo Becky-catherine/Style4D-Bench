@@ -22,7 +22,7 @@
 
 
 
-### :baby_chick: [Project](https://becky-catherine.github.io/Style4D.github.io/) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv]() 
+### :baby_chick: [Project](https://becky-catherine.github.io/Style4D) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv]() 
 <div>
 
 </div>
