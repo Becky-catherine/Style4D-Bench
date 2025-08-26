@@ -8,8 +8,8 @@
     <a href='' target='_blank'>Shuai Shao</a><sup>*2</sup>&emsp;
     <a href='' target='_blank'>Haitang Feng</a><sup>3,2</sup>&emsp;
     <a href='https://cse.sysu.edu.cn/teacher/LaiJianhuang' target='_blank'>Jianhuang Lai</a><sup>4</sup>&emsp;
-    <a href='' target='_blank'>Jianlou Si</a><sup>5</sup><sup>\(\dagger\)</sup>&emsp;
-    <a href='https://wanggcong.github.io/' target='_blank'>Guangcong Wang</a><sup>2</sup><sup>\(\dagger\)</sup><br>
+    <a href='' target='_blank'>Jianlou Si</a><sup>5</sup><sup>†</sup>&emsp;
+    <a href='https://wanggcong.github.io/' target='_blank'>Guangcong Wang</a><sup>2</sup><sup>†</sup><br>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
               <span style="color: #5a6268;">
                 <sup>*</sup>Equal Contribution&nbsp;&nbsp;&nbsp;&nbsp;
-                <sup>\(\dagger\)</sup>Corresponding Authors
+                <sup>†</sup>Corresponding Authors
               </span>
 
 <div align="center">
