@@ -19,10 +19,10 @@
     <sup>4</sup>Sun Yat-Sen University&emsp;
     <sup>5</sup>Alibaba Group
 </div>
-              <span style="color: #5a6268;">
+<div align="center">   
                 <sup>*</sup>Equal Contribution&nbsp;&nbsp;&nbsp;&nbsp;
                 <sup>†</sup>Corresponding Authors
-              </span>
+</div>
 
 <div align="center">
 
