@@ -72,12 +72,10 @@
 
 
 
-##  Citation
-
-If you find this useful for your research, please cite the our paper.
 
 <div class="container is-max-desktop content">
   <h2 class="title">Citation</h2>
+If you find this useful for your research, please cite the our paper.
   <pre><code>@misc{chen2025style4dbenchbenchmarksuite4d,
       title={Style4D-Bench: A Benchmark Suite for 4D Stylization}, 
       author={Beiqi Chen and Shuai Shao and Haitang Feng and Jianhuang Lai and Jianlou Si and Guangcong Wang},
