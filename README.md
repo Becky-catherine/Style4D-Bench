@@ -76,6 +76,16 @@
 
 If you find this useful for your research, please cite the our paper.
 
+@misc{chen2025style4dbenchbenchmarksuite4d,
+      title={Style4D-Bench: A Benchmark Suite for 4D Stylization}, 
+      author={Beiqi Chen and Shuai Shao and Haitang Feng and Jianhuang Lai and Jianlou Si and Guangcong Wang},
+      year={2025},
+      eprint={2508.19243},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.19243}, 
+}
+
 ## Acknowledgement
 <p align="justify">
 The computational resources are supported by SongShan Lake HPC Center (SSL-HPC) in Great Bay University. This work was also supported by Guangdong Research Team for Communication and Sensing Integrated with Intelligent Computing (Project No. 2024KCXTD047).
