@@ -26,7 +26,7 @@
 
 <div align="center">
 
- :baby_chick: [Project](https://becky-catherine.github.io/Style4D) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv]() 
+ :baby_chick: [Project](https://becky-catherine.github.io/Style4D) | [YouTube](https://youtu.be/Tf6QnksXFxQ) | [arXiv](https://arxiv.org/pdf/2508.19243) 
 </div>
 
 
@@ -76,7 +76,9 @@
 
 If you find this useful for your research, please cite the our paper.
 
-@misc{chen2025style4dbenchbenchmarksuite4d,
+<div class="container is-max-desktop content">
+  <h2 class="title">Citation</h2>
+  <pre><code>@misc{chen2025style4dbenchbenchmarksuite4d,
       title={Style4D-Bench: A Benchmark Suite for 4D Stylization}, 
       author={Beiqi Chen and Shuai Shao and Haitang Feng and Jianhuang Lai and Jianlou Si and Guangcong Wang},
       year={2025},
@@ -84,7 +86,9 @@ If you find this useful for your research, please cite the our paper.
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2508.19243}, 
-}
+}</code></pre>
+</div>
+
 
 ## Acknowledgement
 <p align="justify">
