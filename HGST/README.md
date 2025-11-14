@@ -1,0 +1,1 @@
+We provide our style transfer module(Holistic Geometry preserved Style Transfer, HGST), including code and checkpoints.
