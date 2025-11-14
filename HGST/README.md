@@ -8,7 +8,7 @@ https://pan.baidu.com/s/1X4tpV7LraRVPEdtcTIZv-g?pwd=4bpj
 
 
 
-If you encounter issues related to the weight file format, please re-download the VGG weights from the provided link.
+If you encounter issues related to the weight file format, please re-download all weights from the provided link.
 
 
 
