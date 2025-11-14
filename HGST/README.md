@@ -16,7 +16,7 @@ If you encounter issues related to the weight file format, please re-download th
 
 
 
-\###Quick start
+\### Quick start
 
 We provide scripts for both training(train\_global.sh) and video/image stylization(form\_style\_data.sh), allowing you to get started quickly.
 
