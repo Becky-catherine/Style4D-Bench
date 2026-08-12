@@ -1,0 +1,16 @@
+torch==2.2.1
+torchvision==0.17.1
+torchaudio==2.2.1
+mmengine
+matplotlib
+argparse
+lpips
+plyfile
+pytorch_msssim
+open3d
+imageio[ffmpeg]
+opencv-python
+Pillow
+scipy
+tqdm
+tensorboard
